@@ -2,4 +2,4 @@
 test test
 demo demo
 test test test check config
-
+add new line by new type
